@@ -2,8 +2,7 @@ language = swift("3.0")
 platforms = [
   macos("10.11"),
   ios("8.0"),
-  tvos("9.0"),
-  watchos("2.0")
+  tvos("9.0")
 ]
 
 test_platforms = [
